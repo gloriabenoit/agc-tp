@@ -225,3 +225,6 @@ def main(): # pragma: no cover
 
 if __name__ == '__main__':
     main()
+
+    # On trouve :
+    # Matching unique query sequences: 116 of 117 (99.15%)
